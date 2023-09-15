@@ -16,3 +16,19 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## Requirements to fulfill
+
+1. Create a basic server and client class which can communicate via CLI - DONE
+
+2. Allow the client to disconnect and reconnect without server crashing - DONE
+
+3. Make the server able to be connected to by multiple clients - TODO
+
+4. Allow clients to pick their usernames - TODO
+
+5. Allow clients to register their usernames and save them, so they can log in - TODO
+
+6. Host a server so it is always available
+
+7. Create the interface for the server and clients
