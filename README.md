@@ -29,6 +29,6 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 5. Allow clients to register their usernames and save them, so they can log in - TODO
 
-6. Host a server so it is always available
+6. Host a server so it is always available - TODO
 
-7. Create the interface for the server and clients
+7. Create the interface for the server and clients - TODO
